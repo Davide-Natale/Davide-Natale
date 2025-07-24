@@ -45,14 +45,13 @@
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/natale-davide/" target="_blank">
+  <a href="https://www.linkedin.com/in/natale-davide/" target="_blank" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" alt="LinkedIn" width="40" height="40" style="margin-right: 15px;" />
   </a>
-  <a href="mailto:davide.natale2000@gmail.com">
+  <a href="mailto:davide.natale2000@gmail.com" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40" />
   </a>
 </p>
-
 
 ---
 
