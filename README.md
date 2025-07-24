@@ -45,7 +45,7 @@
 ## 📫 Contact Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/natale-davide/) <!-- Sostituisci con il tuo vero profilo -->
-- 📧 davide.natale@email.com <!-- se desideri renderlo pubblico -->
+- 📧 davide.natale2000@email.com <!-- se desideri renderlo pubblico -->
 
 ---
 
