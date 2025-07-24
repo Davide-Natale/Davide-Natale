@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/natale-davide/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/2560px-LinkedIn_Logo_2013.svg.png" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:davide.natale2000@gmail.com">
