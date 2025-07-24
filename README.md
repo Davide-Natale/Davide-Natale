@@ -50,7 +50,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:davide.natale2000@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" />
   </a>
 </p>
 
