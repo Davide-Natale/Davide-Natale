@@ -50,7 +50,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:davide.natale2000@gmail.com">
-    <img src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" alt="Gmail" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40" />
   </a>
 </p>
 
